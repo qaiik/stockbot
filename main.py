@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
+from StockBot import *
 
-class StockBot:
-	def __init__(self):
-		pass
+main()
+# run the main program logic
